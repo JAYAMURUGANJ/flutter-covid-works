@@ -1,0 +1,39 @@
+[
+    {
+        "sno":"1",
+        "celebrationName": "Pongal",
+        "holidayDate": "15/01/2020",
+        "dayName": "Wendesday"
+    },
+    {
+        "sno":"2",
+        "celebrationName": "Republic Day",
+        "holidayDate": "26/01/2020",
+        "dayName": "Sunday"
+    },
+    {
+        "sno":"3",
+        "celebrationName": "Mahavir Jayanti",
+        "holidayDate": "06/04/2020",
+        "dayName": "Monday"
+    },
+    {
+        "sno":"4",
+        "celebrationName": "Good Friday",
+        "holidayDate": "10/04/2020",
+        "dayName": "Friday"
+    },
+    {
+        "sno":"5",
+        "celebrationName": "Buddha Purnima",
+        "holidayDate": "07/05/2020",
+        "dayName": "Thurday"
+    },
+    {
+        "sno":"6",
+        "celebrationName": "Independence Day",
+        "holidayDate": "15/08/2020",
+        "dayName": "Saturday"
+    }
+    
+]
